@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 I am a second-year Ph.D. student in the Economics Department at the University of Pittsburgh.
+
 My primary interests are in microeconomic theory and behavioral & experimental economics.
 
 About Me
