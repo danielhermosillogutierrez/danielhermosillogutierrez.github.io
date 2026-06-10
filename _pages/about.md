@@ -13,4 +13,4 @@ My primary interests are in microeconomic theory and behavioral & experimental e
 
 About Me
 ------
-Prior to beginning my Ph.D., I was the lab manager and researcher at the Los Angeles Behavioral Economics Laboratory at the University of Southern California. I hold an M.A. in Economics from the University of Pittsburgh and a B.A. in Mathematics and Economics from Occidental College.
+Prior to beginning my Ph.D., I was a researcher and the lab manager at the Los Angeles Behavioral Economics Laboratory at the University of Southern California. I hold an M.A. in Economics from the University of Pittsburgh and a B.A. in Mathematics and Economics from Occidental College.
