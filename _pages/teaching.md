@@ -1,0 +1,11 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
+## Teaching Assistant
+
+- **Microeconomic Theory I (Ph.D.)**, Fall 2026
+- **Healthcare Economics (MBA)**, Spring 2026
